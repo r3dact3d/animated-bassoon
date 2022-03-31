@@ -1,6 +1,0 @@
-resources:
-- ../base/namespace.yaml
-namePrefix: prod-
-commonLabels:
-  env: prod
-  size: large

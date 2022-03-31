@@ -1,6 +1,0 @@
-resources:
-- ../base/namespace.yaml
-namePrefix: dev-
-commonLabels:
-  env: dev
-  size: small
