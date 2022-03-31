@@ -1,5 +1,7 @@
-base:
+resources:
 - ../base
 commonLabels:
   env: dev
   size: small
+patchesStrategicMerge:
+- set-namespace.yaml
