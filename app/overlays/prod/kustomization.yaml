@@ -3,5 +3,3 @@ resources:
 commonLabels:
   env: prod
   size: large
-patchesStrategicMerge:
-- set-namespace.yaml
