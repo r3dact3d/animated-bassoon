@@ -7,3 +7,5 @@ commonLabels:
 generatorOptions:
   labels:
     size: medium
+patchesStrategicMerge:
+- deploy-patch.yaml
