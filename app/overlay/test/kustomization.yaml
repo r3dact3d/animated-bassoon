@@ -1,6 +1,5 @@
 resources:
 - ../../base
-namespace: hello-houston-blinker-test
 commonLabels:
   env: test
   size: medium
