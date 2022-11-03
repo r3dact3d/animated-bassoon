@@ -1,6 +1,0 @@
-resources:
-- ../../base
-namespace: hello-houston-blinker-prod
-commonLabels:
-  env: prod
-  size: large
