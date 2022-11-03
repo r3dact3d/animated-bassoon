@@ -1,6 +1,5 @@
 resources:
 - ../../base
-namespace: hello-houston-blinker-dev
 commonLabels:
   env: dev
   size: small
